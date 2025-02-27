@@ -11,7 +11,7 @@ Visit this [blog post](https://textabyss.com/us/doge) to learn more.
 2. Select "Savings" toggle
 3. Expand tables to render all data
 4. Open devtools, copy the body element and save it to `doge_analysis/savings_doge.html`
-5. Run `python main.py`
+5. Ensure you have poetry, then `poetry install && python doge_analysis/main.py`
 
 ## Output
 
